@@ -1,7 +1,5 @@
 {
   "name": "JATE",
-  "engines": {
-    "node": "16.16.0"},
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
@@ -9,7 +7,7 @@
   },
   "author": "2U",
   "license": "UNLICENSED",
-  "devDependencies": {
+  "dependencies": {
     "workbox-cacheable-response": "^6.5.2",
     "workbox-recipes": "^6.5.2",
     "workbox-routing": "^6.5.2",
@@ -29,9 +27,7 @@
     "webpack-cli": "^4.8.0",
     "webpack-dev-server": "^4.0.0",
     "webpack-pwa-manifest": "^4.3.0",
-    "workbox-webpack-plugin": "^6.2.4"
-  },
-  "dependencies": {
+    "workbox-webpack-plugin": "^6.2.4",
     "code-mirror-themes": "^1.0.0",
     "idb": "^6.1.2"
   }
