@@ -72,7 +72,7 @@ To begin this app, type 'npm run build' then 'npm run start:dev' this builds the
 
 ## Screenshot
 
-![screenshot]()
+![Screenshot](https://github.com/Laura-Kam/TextEd/issues/1#issue-1448834478)
 
 ## Bugs
 
@@ -90,7 +90,7 @@ To begin this app, type 'npm run build' then 'npm run start:dev' this builds the
 ## Links to repo and heroku
 
 [Github Repository](https://github.com/Laura-Kam/TextEd/)
-[Heroku Live URL]()
+[Heroku Live URL](https://cryptic-dawn-19004.herokuapp.com/)
 
 ## Contributing
 
