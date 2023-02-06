@@ -72,7 +72,7 @@ To begin this app, type 'npm run build' then 'npm run start:dev' this builds the
 
 ## Screenshot
 
-![Screenshot](https://github.com/Laura-Kam/TextEd/issues/1#issue-1448834478)
+![Screenshot](https://user-images.githubusercontent.com/104718053/201778212-74e4b0c0-4f2f-4c56-a299-9aa909b53aa5.png)
 
 ## Bugs
 
